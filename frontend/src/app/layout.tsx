@@ -10,8 +10,8 @@ export const metadata: Metadata = {
   description:
     "MondoCoffee digital restaurant menu and kitchen dashboard — NFC/QR table ordering.",
   icons: {
-    icon: "/logo.png",
-    apple: "/logo.png",
+    icon: "/mondo.png",
+    apple: "/mondo.png",
   },
 };
 

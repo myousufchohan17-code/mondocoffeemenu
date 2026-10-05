@@ -680,7 +680,7 @@ export function CustomerMenu({
         <div className="flex items-center justify-between border-b border-[var(--border)] px-4 py-3 lg:hidden">
           <div className="flex items-center gap-2">
             <Image
-              src="/logo.png"
+              src="/mondo.png"
               alt="MondoCoffee"
               width={40}
               height={40}
